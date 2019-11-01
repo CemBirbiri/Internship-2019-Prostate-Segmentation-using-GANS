@@ -1,5 +1,5 @@
 # Prostate-Segmentation-using-GANS
-Additional coding on Prostate Segmentation using GANs
+Additional coding on Prostate Segmentation using GANs paper
 
 
 Generative Adversarial Networks(GANs) have shown great success in generating different kinds of visual content. 
