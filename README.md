@@ -1,5 +1,5 @@
 # Prostate-Segmentation-using-GANS
-Additional coding on Prostate Segmentation using GANs paper, which is my 2019 summer internship research, at Aberystwyth University, Wales ,UK under supervision of Reyer Zwiggelaar.
+2019 Summer internship at Aberystwyth University,UK under the supervision of Reyer Zwiggelaar.
 
 
 Generative Adversarial Networks(GANs) have shown great success in generating different kinds of visual content. 
