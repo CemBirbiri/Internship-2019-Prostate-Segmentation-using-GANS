@@ -1,4 +1,12 @@
-# Prostate-Segmentation-using-GANS
+# Investigating the Performance of Generative Adversarial Networks for Prostate Tissue Detection and
+Segmentation
+The corresponding publication realted to this code : https://www.mdpi.com/2313-433X/6/9/83
+
+Ufuk Cem Birbiri, Azam Hamidinekoo, Amelie Grall, Paul Malcolm, and Reyer Zwiggelaar
+“Investigating the Performance of Generative Adversarial Networks for Prostate Tissue Detection and
+Segmentation”, Journal of Imaging, MDPI, 2020
+
+
 2019 Summer internship at Aberystwyth University,UK under the supervision of Reyer Zwiggelaar.
 
 
