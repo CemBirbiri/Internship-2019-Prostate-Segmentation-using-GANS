@@ -1,7 +1,12 @@
-This repository involves the code of the paper "Investigating the Performance of Generative Adversarial Networks for Prostate Tissue Detection and
-Segmentation".
+This repository involves the code of the paper [Investigating the Performance of Generative Adversarial Networks for Prostate Tissue Detection and
+Segmentation](https://pubmed.ncbi.nlm.nih.gov/34460740/), where I am the first author.
 
-The corresponding publication: https://www.mdpi.com/2313-433X/6/9/83
+The corresponding publication: 
+https://pubmed.ncbi.nlm.nih.gov/34460740/
+
+or
+
+https://www.mdpi.com/2313-433X/6/9/83
 
 This work is done in 2019 my summer internship internship at Aberystwyth University,UK under the supervision of Reyer Zwiggelaar.
 
