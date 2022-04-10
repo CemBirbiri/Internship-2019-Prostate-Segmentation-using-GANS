@@ -1,14 +1,9 @@
-# Investigating the Performance of Generative Adversarial Networks for Prostate Tissue Detection and
-Segmentation
+This repository involves the code of the paper "Investigating the Performance of Generative Adversarial Networks for Prostate Tissue Detection and
+Segmentation".
 
-The corresponding publication related to this code : https://www.mdpi.com/2313-433X/6/9/83
+The corresponding publication: https://www.mdpi.com/2313-433X/6/9/83
 
-Ufuk Cem Birbiri, Azam Hamidinekoo, Amelie Grall, Paul Malcolm, and Reyer Zwiggelaar
-“Investigating the Performance of Generative Adversarial Networks for Prostate Tissue Detection and
-Segmentation”, Journal of Imaging, MDPI, 2020
-
-
-2019 Summer internship at Aberystwyth University,UK under the supervision of Reyer Zwiggelaar.
+This work is done in 2019 my summer internship internship at Aberystwyth University,UK under the supervision of Reyer Zwiggelaar.
 
 
 Generative Adversarial Networks(GANs) have shown great success in generating different kinds of visual content. 
@@ -23,6 +18,7 @@ cycleGAN models against superpixelizing , adding Gaussian noise and smoothing th
 First we observed the performance of U-Net,cGAN and cycleGAN networks on raw prostate images then performance of 
 cGAN and cycleGAN networks on datasets which are created with our data augmentation methods. Based on the detection 
 and segmentation metrics, all the three data augmentation methods improved the performance in each 3D prostate modality.
+
 
 
 
