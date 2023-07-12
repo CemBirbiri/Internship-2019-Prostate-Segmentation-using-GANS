@@ -2,13 +2,14 @@ This repository involves the code of the paper [Investigating the Performance of
 Segmentation](https://pubmed.ncbi.nlm.nih.gov/34460740/), where I am the first author.
 
 The corresponding publication: 
+
 https://pubmed.ncbi.nlm.nih.gov/34460740/
 
 or
 
 https://www.mdpi.com/2313-433X/6/9/83
 
-This work is done in 2019 my summer internship internship at Aberystwyth University,UK under the supervision of Reyer Zwiggelaar.
+This work is done in 2019 my summer internship in [Vision Graphics & Visualisation group](https://www.aber.ac.uk/en/cs/research/vgv/) at Aberystwyth University,UK under the supervision of [Prof. Reyer Zwiggelaar](https://www.aber.ac.uk/en/cs/staff-profiles/listing/profile/rrz/).
 
 
 Generative Adversarial Networks(GANs) have shown great success in generating different kinds of visual content. 
